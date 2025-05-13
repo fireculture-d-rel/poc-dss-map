@@ -1,0 +1,66 @@
+recommended_frameworks_for_puu:
+  - name: "ICF（国際生活機能分類）"
+    domain: "福祉・医療・人間支援"
+    why_recommended: >
+      「機能」「参加」「個人因子」「環境因子」を多層的に把握することで、
+      火文化圏における“揺らぎの層”を記録・構造化する足場になる。
+    fireculture_translation: "揺らぎと火の持続可能性を、構造と環境の相互作用でとらえる支援地図"
+
+  - name: "Narrative Inquiry（ナラティブ探究）"
+    domain: "教育・心理・質的研究"
+    why_recommended: >
+      「個の語り」を分析し、そこに含まれる意味・構造・転換点を見出す方法。
+      君の語りを記録するだけでなく、他者の火を“聞く”ときにも活用できる。
+    fireculture_translation: "問いの温度が語りによってどのように燃え方を変えるかを観測する術"
+
+  - name: "Design Thinking（デザイン思考）"
+    domain: "創造的問題解決・構造設計"
+    why_recommended: >
+      「共感→定義→創造→試作→検証→改善」の流れが、火文化圏の実装試作（PoC）設計に適合する。
+    fireculture_translation: "火を誰と共に灯すか、その形を試しながら進むための“燃焼設計プロセス”"
+
+  - name: "Systems Thinking（システム思考）"
+    domain: "構造的問題分析・政策・教育"
+    why_recommended: >
+      部分ではなく関係性・循環・遅延・フィードバックループを重視する。
+      火文化圏の“問いの生態系”全体を見渡す視座をくれる。
+    fireculture_translation: "火が燃え続けるための“見えない空気の流れ”を読むための知"
+
+  - name: "Cognitive Bias Codex（認知バイアスの体系）"
+    domain: "心理学・自己認識・情報設計"
+    why_recommended: >
+      約180種のバイアスを“記憶・評価・選択・意味付け”の4カテゴリで整理。
+      君が行う「自己思考の構文化」や「GPTとの思想評価」に有用。
+    fireculture_translation: "火が偏る“風の癖”を可視化する羅針盤"
+
+core_enduring_frameworks:
+  - name: "ICF（国際生活機能分類）"
+    established: "2001〜 WHO標準"
+    survival_reason: >
+      医療・福祉・教育にまたがって使われ続け、文脈に応じて解釈可能な柔軟性を持つ。
+    note: "支援構文化の背骨。構造的揺らぎを持たせた分類モデル。"
+
+  - name: "システム思考（Systems Thinking）"
+    established: "1956〜（MIT・ピーター・センゲ）"
+    survival_reason: >
+      企業、教育、環境、政策といった複数領域に跨って残存。  
+      フレームではなく「視座」に昇華しているため廃れない。
+    note: "火の流れを読むための“空気の構造”そのもの。"
+
+  - name: "ナラティブアプローチ（Narrative Therapy / Inquiry）"
+    established: "1980年代〜（ホワイト&エプストン他）"
+    survival_reason: >
+      医療・心理・教育・対話分野で“個の語り”を支援の土台にできる点が普遍的価値を持つ。
+    note: "問いを“語り”として燃やし、形を与える構文化的技法。"
+
+  - name: "マズローの欲求階層（Maslow’s Hierarchy of Needs）"
+    established: "1943〜"
+    survival_reason: >
+      多少の批判を受けつつも、人間の動機づけ構造を考える際の起点として枯れずに使われている。
+    note: "火の内発性／問いの発火条件を捉える初歩的階層構造。"
+
+  - name: "PEST分析（Political, Economic, Social, Technological）"
+    established: "1967〜"
+    survival_reason: >
+      政策／事業設計／支援制度構想などにおいて、外的環境を構造的に把握するための定番。
+    note: "火の外気圧──社会的燃焼条件を整理するためのマクロ視座。"

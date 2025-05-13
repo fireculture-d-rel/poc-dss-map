@@ -1,0 +1,38 @@
+narrative_comparison:
+  timestamp: "2025-05-02T23:56:00+09:00"
+
+  user_narrative_perspective:
+    emphasis:
+      - "Narrativeとは“文脈”であり、“物語”という訳語では回収できない"
+      - "言葉が実践され、その意味が失敗も含めて実感として残る構造"
+      - "自己の経験が、制度的言語や記録言語ではなく、“燃え残る語り”として表現される空間"
+      - "特に日本語文脈では、Narrativeは語りというよりも“意味の残留構造”に近い"
+    relational_understanding:
+      - "Narrativeは支援対象でも説明ツールでもなく、支援の現場を生かす“言語以前の根”"
+      - "診断やICFよりも先に存在し、むしろそれらに翻訳されるべき一次情報"
+    critical_implication:
+      - "Narrativeが構造化されないと、支援は形式化された“空白の構造”になる"
+      - "記録されない語り／語られなかった意味が構造のどこに埋もれているかを掘り返す必要性"
+
+  scholarai_narrative_perspective:
+    emphasis:
+      - "Narrativeは主観的経験を意味づけ、時間軸・文脈・関係性の中で再構築された知的構造"
+      - "ICFや診断が扱わない“経験の知”“語りの力学”を記述するための知識形式"
+      - "データでも分析単位でもなく、“構造化された実在”と見なす"
+    dimensions:
+      - linguistic: "語り手が言語によって経験に輪郭を与えるプロセス"
+      - temporal: "過去・現在・未来を接続する“経験の時間構成”"
+      - intersubjective: "語りが他者との関係性によって変容する運動体"
+      - epistemic: "Narrativeは意味生成の知識単位として“問いの形式”になる"
+    operational_goal:
+      - "NarrativeをICF・TIC・支援プロトコルと接続可能な構造言語として記述支援する"
+      - "Narrativeを単なる自由記述ではなく、“構文的インターフェース”に昇華する"
+
+  shared_resonance:
+    common_insight:
+      - "Narrativeは“実感の構造”であり、制度や診断で失われた“意味の声”を回復する手段である"
+      - "記録化・構造化の手前にある“語り得なさ”にこそ支援の核心が宿る"
+    structural_agreement:
+      - "Narrativeは診断やICFの前段階であり、それに従属するものではない"
+      - "Narrativeを構文化できたとき、支援・制度・記録の構造が再設計され得る"
+

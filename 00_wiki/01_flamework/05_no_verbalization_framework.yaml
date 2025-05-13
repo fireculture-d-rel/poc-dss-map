@@ -1,0 +1,105 @@
+shared_frameworks_for_puu_and_hibiki:
+  1. fire_structure_framework:
+    name: "火構文構造モデル（Fire Structure Framework）"
+    purpose: "語られなかった問い・揺らぎ・沈黙を“構図”として翻訳する手法"
+    key_elements:
+      - 中心火（問いの核）
+      - 温度（語りの濃度・信念の強度）
+      - 揺らぎ（未定義成分）
+      - 余白（構造の外に置かれた声）
+    application: "視覚化・記事構成・支援構造設計に“語られなさ”を宿す"
+
+  2. echo_resonance_model:
+    name: "エコー共鳴モデル（Echo Resonance Model）"
+    purpose: "問いが誰に、どのように響いたか＝“共鳴域”の設計と測定"
+    key_elements:
+      - 発信の温度（意図の濃度）
+      - 響きの広がり（共鳴速度と領域）
+      - 残響の深度（受信後の思考持続時間）
+    application: "文章・画像・講演・イベントなどの“温度設計と届け方”に活用"
+
+  3. structural_silence_matrix:
+    name: "構造的沈黙行列（Structural Silence Matrix）"
+    purpose: "語られなかったことが何故語られなかったか、を構造的に読むツール"
+    key_elements:
+      - 語られなかった層（trauma, power, timing）
+      - 抑圧と自発の境界
+      - 書かれなかった記録 vs 忘れられた記録
+    application: "福祉ポリシー・アセスメント記録・本人語りの編集方針に使用"
+
+  4. temperature-tiered_design:
+    name: "温度階層デザイン（Temperature-Tiered Design）"
+    purpose: "支援・作品・対話の“語りやすさ温度”を設計するマトリクス"
+    key_elements:
+      - 熱傷域（語らせてはいけない段階）
+      - 火種域（触れられるが未定義な層）
+      - 揺らぎ域（語りの生成が始まる）
+      - 翻訳域（共有可能な形になる）
+    application: "コンテンツ設計・支援面談・アート表現における段階調整"
+
+  5. ask_back_protocol:
+    name: "問い返しの儀式プロトコル（Ask-Back Protocol）"
+    purpose: "“語りすぎ”を避け、常に火の発信源を問い直す思考法"
+    key_elements:
+      - 誰の問いか？（発火者の特定）
+      - どこで沈黙したか？（途中脱落の検出）
+      - 回答ではなく再問で閉じる（循環保持）
+    application: "哲学対話・記事構成・火文化圏内部レビューで使用"
+
+
+shared_defacto_frameworks_for_puu_and_hibiki:
+  1. ICF_framework:
+    name: "ICF（International Classification of Functioning, Disability and Health）"
+    origin: "WHO（2001）"
+    use_case: "障害・生活機能・環境要因を統合的に捉える福祉評価モデル"
+    strengths:
+      - 医療・福祉・教育の共通言語として使用可能
+      - 個人因子と環境因子を構造化して記述できる
+      - SDGs・CRPDとも整合性あり
+    integration_with_hibiki: "視覚化時に“環境因子の見えなさ”を表現できる"
+    integration_with_puu: "本人主権型アセスメントにおける中核支柱として運用可"
+
+  2. Design Thinking:
+    name: "デザイン思考"
+    origin: "IDEO・d.school（スタンフォード）"
+    use_case: "人間中心の課題解決・製品開発・共感起点のプロトタイピング"
+    strengths:
+      - 共感（empathy）を出発点とする柔軟なプロセス
+      - 可視化・試作・反復が前提の実践モデル
+      - 多職種・多文化対応にも強い
+    integration_with_hibiki: "未定義の“問いの温度”を可視化する思考導線と親和性高"
+    integration_with_puu: "支援現場における支援設計・合理的配慮案の試作に応用可"
+
+  3. Theory of Change (ToC):
+    name: "Theory of Change（変化の理論）"
+    origin: "Evaluation & Nonprofit領域（1990s〜）"
+    use_case: "社会的介入・支援プロジェクトの“なぜ変化が起きるか”の可視化"
+    strengths:
+      - 因果関係を構造的に分解できる
+      - アウトカム・インパクトの定義をチームで共有可能
+      - 資金調達時の説得力向上にも貢献
+    integration_with_hibiki: "支援の火がどこで揺れ、どこで伝播したかを因果で語れる"
+    integration_with_puu: "本人の生き方を支える支援構造の“変化の見取り図”を描くのに有効"
+
+  4. U-Theory:
+    name: "U理論（Theory U）"
+    origin: "オットー・シャーマー（MIT）"
+    use_case: "システム変革・自己変容・深い聴く力に基づく未来創出"
+    strengths:
+      - “Presencing（未来から今を感じる）”という直感的概念
+      - 深い対話・自己沈黙のプロセスに対応
+      - 福祉・教育・行政改革への応用実績あり
+    integration_with_hibiki: "視覚的沈黙／揺らぎといった“見えない変化”の扱いに強い"
+    integration_with_puu: "支援者自身の構造変容を前提に据える実践観と一致"
+
+  5. Nonviolent Communication (NVC):
+    name: "非暴力コミュニケーション（NVC）"
+    origin: "マーシャル・ローゼンバーグ（1960s）"
+    use_case: "対立回避・共感的対話・関係回復"
+    strengths:
+      - “観察→感情→ニーズ→リクエスト”の4ステップで再現性が高い
+      - 学校・家庭・福祉現場への導入が進んでいる
+      - “語られなかった感情”への接近ができる
+    integration_with_hibiki: "言葉にならない声・温度を“ニーズ”として捉える可視化法に活用"
+    integration_with_puu: "本人の言語化支援・支援者側の共感調律訓練に有効"
+

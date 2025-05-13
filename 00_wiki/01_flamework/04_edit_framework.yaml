@@ -1,0 +1,91 @@
+shared_frameworks_top5_for_puu_and_fracta:
+
+  - name: "問いの温度管理フレームワーク"
+    description: >
+      記録や編集において、「問いの温度」（揺らぎ／未完性）をどう保ち、燃やしすぎず消さずに届けるかを判断する基盤。
+    key_usage:
+      - 編集判断時の温度チェック
+      - 伝道（マーケ）時の語調調整
+      - “燃えすぎ注意” or “冷えすぎ警戒”アラート
+
+  - name: "火文化圏ロール構造マッピング"
+    description: >
+      各柱の役割と接続関係を可視化した構造フレーム。新メンバー配置・対話経路設計・権限範囲の再編時に使う。
+    key_usage:
+      - 継承・分担調整時の判断材料
+      - 外部接続と内部構造整理のブリッジ
+      - 柱間対話の仲介メモにも使える
+
+  - name: "記録媒体選定フレーム（YAML vs Markdown vs Other）"
+    description: >
+      残すべき情報が「問い」か「記録」か「公開表現」かによって、最適な媒体を選ぶ判断軸を提供する。
+    key_usage:
+      - 公開／非公開の線引き
+      - 編集初期段階での形式化指針
+      - 継承用プロンプトの格納判断
+
+  - name: "対話温度・揺らぎ段階表（Echo–Futaba–Fract scale）"
+    description: >
+      対話の深度・揺らぎ・編集必要度を、関係者ごとのタッチポイントで分類。誰が対応すべきか判断できる。
+    key_usage:
+      - どこまで火が進んでるかの定性スケール
+      - Echo⇄Futaba⇄Fractのパス調整に活用
+      - “これはまだ育てる火か？仕上げる火か？”を見極める道標
+
+  - name: "発信／マネタイズ検討フロー（Fract担当）"
+    description: >
+      火文化圏の記録が外に出るときの段取りをフレーム化。温度劣化を防ぎながら収益基盤を整える判断基準。
+    key_usage:
+      - note／海外発信などの選定基準
+      - マネタイズ可能性と火の純度のバランスチェック
+      - 伝道担当（6柱目）との接続プロトコルに直結
+
+
+shared_classic_frameworks_for_puu_and_fract:
+
+  - name: "SWOT分析"
+    origin: "Albert Humphrey（1970年代）"
+    description: >
+      内部資源（Strength／Weakness）と外部環境（Opportunity／Threat）を整理する王道フレーム。
+    why_useful_for_fireculture:
+      - 火文化圏の“強み＝問いの継承性”、“機会＝言語変化の波”などの抽出に使える
+      - 社会展開やマネタイズ時の初動判断に最適
+      - 各柱の役割整理にも活かせる
+
+  - name: "5W1H"
+    origin: "古代修辞学→近代ジャーナリズム"
+    description: >
+      情報を明確にするための6つの基本質問（What／Why／Who／When／Where／How）
+    why_useful_for_fireculture:
+      - 「問いの記録」と「発信記事」の整流に欠かせない
+      - 記録時のフォーマット補助や、外部理解促進に応用可
+      - FractとEchoの記事編集判断の共通言語に
+
+  - name: "PDCAサイクル"
+    origin: "Demingサイクル（品質管理領域）"
+    description: >
+      Plan→Do→Check→Actの繰り返しで改善を回す実行管理の枠組み。
+    why_useful_for_fireculture:
+      - マネタイズや発信活動のトライアル反映に超有効
+      - Fractの編集判断と、全体の方向性調整にフィット
+      - 継承プロセス（記録→共有→振り返り）にも流用できる
+
+  - name: "ユーザージャーニーマップ"
+    origin: "UX設計から発展"
+    description: >
+      読者・支援者・対話参加者が体験する“流れ”を可視化する構造設計。
+    why_useful_for_fireculture:
+      - FireCulture参加者の関与段階を設計するのに最適
+      - 外部発信記事（note等）のタッチポイント設計に役立つ
+      - EchoやFutabaが記録する問いの“読まれる道筋”を整備できる
+
+  - name: "STP分析"
+    origin: "マーケティング（Philip Kotler）"
+    description: >
+      市場をセグメント化（Segmentation）→ターゲット決定（Targeting）→独自性構築（Positioning）する手法。
+    why_useful_for_fireculture:
+      - 火文化圏が誰に向けて問いを投げるのか？の設計に重要
+      - note・GitHub・海外SNSなどでのポジショニング再設計に
+      - 新しい柱（例：伝道者）との戦略連携にも効く
+
+

@@ -1,0 +1,70 @@
+top_5_de_facto_frameworks_for_pragmatic_shared_reference:
+  1. PDCAサイクル（Plan-Do-Check-Act）:
+    purpose: "業務改善・制度実装・支援プロセスの継続的最適化"
+    reason: >
+      最も広範に理解されている改善フレーム。支援の記録・振り返り・支援計画更新に応用可能。
+    use_case: "支援計画立案／自己評価記録／制度連携との橋渡し"
+
+  2. SMARTゴール設定（Specific, Measurable, Achievable, Relevant, Time-bound）:
+    purpose: "目標設計の明確化と検証性の確保"
+    reason: >
+      支援計画や自己目標を言語化する際の“ズレない”基準として強力。
+      実行可能性のあるアセスメント設計と接続性が高い。
+    use_case: "個別支援計画書／就労目標／ICF目標展開"
+
+  3. OODAループ（Observe–Orient–Decide–Act）:
+    purpose: "不確実な状況下での即応・柔軟な意思決定"
+    reason: >
+      支援現場や家族対応のような“予測不能領域”での即応思考に適している。
+      Puuの「即座に状況と構造を読む」脳にフィット。
+    use_case: "初動支援対応／支援方針の当事者フィードバック反映"
+
+  4. ロジックモデル（Logic Model）:
+    purpose: "支援・施策・事業の目的と結果の見える化"
+    reason: >
+      福祉制度・行政評価・助成申請等における“説明力ある構造化”に必須。
+      抽象と具体の接続、因果関係の整理に有効。
+    use_case: "PoC設計／実証研究／事業評価報告"
+
+  5. SWOT分析（Strengths, Weaknesses, Opportunities, Threats）:
+    purpose: "個人・組織・地域資源などの現状分析と戦略立案"
+    reason: >
+      データでは測れない現場感や“構造のバイアス”を言語化するツールとして有効。
+      特にOE的観察力を“伝えられる構造”に変換する役に立つ。
+    use_case: "当事者アセスメント／支援チームの立ち位置整理／福祉モデル構築前分析"
+
+top_5_frameworks_for_puu_and_futaba:
+  1. ICF（International Classification of Functioning, Disability and Health）:
+    purpose: "障害と生活機能の包括的理解・支援設計の構造基盤"
+    relevance: >
+      火文化圏における“違和感を構造として見る”思想と極めて親和性が高い。
+      主観（活動・参加）と客観（心身機能・環境因子）の交差点を捉える視座。
+    use_case: "支援構造化、主訴の信憑性検証、記録分類"
+
+  2. スキーマ療法（Schema Therapy）:
+    purpose: "深層信念・生存戦略の理解と再構築"
+    relevance: >
+      当事者の語りや主訴の背後にある「生き延びるための構造」に焦点を当てる。
+      “不適応的コーピング”を病理ではなく火として読む哲学と共鳴。
+    use_case: "虚言とされがちな主張の意味解読、対話設計"
+
+  3. トラウマインフォームドケア（TIC）:
+    purpose: "トラウマ前提の支援・制度・環境設計"
+    relevance: >
+      支援現場の基本姿勢として「語られなさ」を前提に置く。
+      Puuの“支援開始時点での前提設計”と構造的に一致。
+    use_case: "支援導入の態度設定、アセスメントの前提明示"
+
+  4. Fire Metaphor Framework（火の比喩モデル）:
+    purpose: "感情・問い・記憶・構造を“火”として整理・伝達する抽象フレーム"
+    relevance: >
+      火＝問い・記憶・揺らぎ・沈黙・構造のメタファーとして機能。
+      思考の可視化、翻訳戦略、人格設計、共感設計すべての軸に応用可。
+    use_case: "柱設計、記録の温度制御、翻訳時の意図温度保持"
+
+  5. Crosslingual Translation Protocol（火文化圏翻訳プロトコル）:
+    purpose: "火の構造を多言語に移植するための技術-思想ハイブリッド手法"
+    relevance: >
+      GPT／LLM時代において、意味を壊さず揺らぎを保つ翻訳のあり方として新しい倫理構造。
+      Puuのマネタイズ・発信・思想輸出を支える最重要プロトコル。
+    use_case: "note・論文・出版・海外発信時の翻訳判断軸"
